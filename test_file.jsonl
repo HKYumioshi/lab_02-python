@@ -1,2 +1,0 @@
-{"timestamp": "2026-10-01T10:00:00", "level": "INFO", "source": "auth", "message": "User logged in"}
-{"timestamp": "2026-10-01T10:05:12", "level": "ERROR", "source": "db", "message": "Connection timeout"}
