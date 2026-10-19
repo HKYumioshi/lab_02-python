@@ -1,0 +1,10 @@
+metric,key,value
+total_events,,2
+by_level,INFO,1
+by_level,ERROR,1
+by_source,auth,1
+by_source,db,1
+top_error_sources,db,1
+first_timestamp,,2026-10-01T10:00:00
+last_timestamp,,2026-10-01T10:05:12
+skipped_lines,,1
